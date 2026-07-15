@@ -1,0 +1,8 @@
+## REQUIREMENTS ##
+
+$ Python programming language
+$ Numpy
+$ Pandas
+$ Matplotlib
+$ scikit-Learn
+$ Pytorch
