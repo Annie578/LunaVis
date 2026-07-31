@@ -4,5 +4,6 @@ $ Python programming language
 $ Numpy
 $ Pandas
 $ Matplotlib
+$ opencv
 $ scikit-Learn
 $ Pytorch

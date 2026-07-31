@@ -1,10 +1,10 @@
 ## README ##
 
-# 🛰️ MarsVision
+# 🛰️ LunaVis
 
 > A Computer Vision Framework for Planetary Surface Analysis.
 
-MarsVision is an end-to-end computer vision project focused on detecting Martian impact craters using NASA HiRISE orbital imagery.
+LunaVis is an end-to-end computer vision project focused on detecting Lunar impact craters
 
 ## Objectives
 
@@ -16,7 +16,7 @@ MarsVision is an end-to-end computer vision project focused on detecting Martian
 
 ## Current Status
 
-🚧 Literature Review
+🚧 Data Exploration 
 
 ## Roadmap
 
@@ -39,5 +39,4 @@ MarsVision is an end-to-end computer vision project focused on detecting Martian
 
 ## Datasets
 
-- NASA HiRISE
-- Robbins Mars Crater Database
+- Artificial Lunar Landscape Dataset - Keio University Japan
