@@ -40,8 +40,5 @@ LunaVis is an end-to-end computer vision project focused on detecting lunar impa
 
 ## Datasets
 - Artificial Lunar Landscape Dataset - Keio University Japan
-<<<<<<< HEAD
 
-=======
->>>>>>> 8069c2a89d103163932df2e1d33f43f8b19de201
 
