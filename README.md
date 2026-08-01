@@ -5,7 +5,7 @@
 > A Computer Vision Framework for Planetary Surface Analysis.
 
 LunaVis is an end-to-end computer vision project focused on detecting lunar impact craters using KEIO university , Japan dataset.
->>>>>>> 542a91d06b16c9992a4cd99aa18fcafa842030c8
+
 
 ## Objectives
 
@@ -17,7 +17,7 @@ LunaVis is an end-to-end computer vision project focused on detecting lunar impa
 
 ## Current Status
 🚧 Mathematical research
->>>>>>> 542a91d06b16c9992a4cd99aa18fcafa842030c8
+
 
 ## Roadmap
 
@@ -39,8 +39,5 @@ LunaVis is an end-to-end computer vision project focused on detecting lunar impa
 - Streamlit
 
 ## Datasets
-
-<<<<<<< HEAD
 - Artificial Lunar Landscape Dataset - Keio University Japan
-=======
 
