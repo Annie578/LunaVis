@@ -1,1 +1,10 @@
-Data/
+# Keep credentials, downloaded datasets, trained weights, and local environments out of Git.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.kaggle/
+data/raw/
+data/processed/
+models/*.pt
